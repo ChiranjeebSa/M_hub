@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/zendesk/static/css/main.6a934dfc.chunk.css",
+    "main.js": "/zendesk/static/js/main.bb542833.chunk.js",
+    "main.js.map": "/zendesk/static/js/main.bb542833.chunk.js.map",
+    "runtime-main.js": "/zendesk/static/js/runtime-main.cd66e390.js",
+    "runtime-main.js.map": "/zendesk/static/js/runtime-main.cd66e390.js.map",
+    "static/js/2.026da405.chunk.js": "/zendesk/static/js/2.026da405.chunk.js",
+    "static/js/2.026da405.chunk.js.map": "/zendesk/static/js/2.026da405.chunk.js.map",
+    "index.html": "/zendesk/index.html",
+    "precache-manifest.92ff6a3fe4db330eb01fa6fd6275a9a0.js": "/zendesk/precache-manifest.92ff6a3fe4db330eb01fa6fd6275a9a0.js",
+    "service-worker.js": "/zendesk/service-worker.js",
+    "static/css/main.6a934dfc.chunk.css.map": "/zendesk/static/css/main.6a934dfc.chunk.css.map",
+    "static/js/2.026da405.chunk.js.LICENSE.txt": "/zendesk/static/js/2.026da405.chunk.js.LICENSE.txt",
+    "static/media/Login_Banner.png": "/zendesk/static/media/Login_Banner.19811fde.png",
+    "static/media/Migration_Hub_logo.png": "/zendesk/static/media/Migration_Hub_logo.e91c0033.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cd66e390.js",
+    "static/js/2.026da405.chunk.js",
+    "static/css/main.6a934dfc.chunk.css",
+    "static/js/main.bb542833.chunk.js"
+  ]
+}
